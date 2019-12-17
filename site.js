@@ -20,3 +20,5 @@ console.log(date, typeof date)
 
 var alrt = alert;
 console.log(alrt, typeof alrt)
+
+//test
